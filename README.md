@@ -21,10 +21,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Restart the server by going to to ISS and stop/starting the server
-- Set up varios roles in osTicket such as Teams, Department, Agents 
-- Set up var
+- Set up various roles in osTicket such as Teams, Department, Agents 
+- Setting up catagories for service-level agreement and 
 - Item 4
-- Item 5
 
 <h2>Configuration Steps</h2>
 
