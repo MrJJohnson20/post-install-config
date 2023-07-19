@@ -36,12 +36,18 @@ In the image above I am restarting the server one more time to make sure i can s
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/MrJJohnson20/post-install-config/assets/127172324/5aa7889d-df73-4c03-9172-38810f54e0e8)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
+
+![Uploading image.png…]() 
+
+
+
 <br />
 
 <p>
