@@ -41,11 +41,17 @@ In the image above I am restarting the server one more time to make sure i can s
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After loging in into osTicket I go through Admin Panel -> Agents -> Roles to create a  Supreme Admin Role
 </p>
 
-![Uploading image.png…]() 
 
+![image](https://github.com/MrJJohnson20/post-install-config/assets/127172324/e0c10165-870e-4ca1-bb77-fa60a75159bb)
+
+I also go through Admin Panel -> Agents -> Departments to create System Administrators Department
+
+
+
+![image](https://github.com/MrJJohnson20/post-install-config/assets/127172324/f70a2220-86eb-45ae-940f-ed5996834208)
 
 
 <br />
