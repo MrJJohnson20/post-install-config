@@ -53,6 +53,11 @@ I also go through Admin Panel -> Agents -> Departments to create System Administ
 
 ![image](https://github.com/MrJJohnson20/post-install-config/assets/127172324/f70a2220-86eb-45ae-940f-ed5996834208)
 
+![image](https://github.com/MrJJohnson20/post-install-config/assets/127172324/498c6014-bb22-4e10-b02b-56950d4a5d9b)
+
+Along with creating departmetns I will also create service-level agreement  or (SLA) teirs by going to Admin Panel -> Manage -> Help Topics
+
+
 
 <br />
 
